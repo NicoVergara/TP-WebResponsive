@@ -110,6 +110,10 @@ header{
   padding-bottom: 30px;
 }
 
+.menu .menu-items a:hover{
+  color: #2bbb91;
+}
+
 /* PROFILE
    =================================================================== */
 .profile{
