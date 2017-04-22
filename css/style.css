@@ -17,6 +17,12 @@ body{
   margin-top: 70px;
 }
 
+/*input,
+textarea{
+  border: none;
+  border-radius: 0;
+}*/
+
 h1,
 h2,
 h3,
@@ -226,8 +232,15 @@ header{
   justify-content: center;
 }
 
+.contact .form-field{
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: .5em;
+  border-bottom: 1px solid #eeeeee;
+}
+
 .contact .form-field input{
-  padding: 12px;
+  padding: 15px;
 }
 
 .contact .form-field textarea{
