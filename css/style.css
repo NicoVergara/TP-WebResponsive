@@ -65,7 +65,7 @@ h4{
    =================================================================== */
 header{
   width: 100%;
-  background: #3C435D;
+  background: #233140;
   position: fixed; /* Fijo el header. */
   top: 0; /* Lo ubico arriba. */
 }
@@ -263,7 +263,7 @@ input[type="textarea"]{
 
 .footer .info{
   padding: 30px;
-  background: #4d5469;
+  background: #2C3E50;
 }
 
 .footer .description-container{
@@ -350,7 +350,7 @@ input[type="textarea"]{
 
 .footer .copyright{
   padding: 15px;
-  background: #3C435D;
+  background: #233140;
 }
 
 .footer .copyright p{
